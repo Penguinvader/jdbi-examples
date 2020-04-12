@@ -8,6 +8,13 @@
     <version>1.0</version>
     <developers>
         <developer>
+            <id>penguinvader</id>
+            <name>Balázs Bartha</name>
+            <email>balifej@gmail.com</email>
+            <organization>Faculty of Informatics, University of Debrecen</organization>
+            <organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
+        </developer>
+        <developer>
             <id>jeszy</id>
             <name>Péter Jeszenszky</name>
             <email>jeszenszky.peter@inf.unideb.hu</email>
